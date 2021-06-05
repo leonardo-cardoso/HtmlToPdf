@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WnvHtmlToPdfDemo", "WnvHtmlToPdfDemo\WnvHtmlToPdfDemo.csproj", "{A8FA8969-385F-4AD3-B81C-0D3C9CD3317E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FA8969-385F-4AD3-B81C-0D3C9CD3317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FA8969-385F-4AD3-B81C-0D3C9CD3317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FA8969-385F-4AD3-B81C-0D3C9CD3317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FA8969-385F-4AD3-B81C-0D3C9CD3317E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B402906-0500-4B38-AFA3-CD4886C820F9}
+	EndGlobalSection
+EndGlobal
